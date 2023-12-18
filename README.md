@@ -1,7 +1,7 @@
 # BellaBeat Case Study: Data Analysis in Python
 
 ## Project Overview
-This project focuses on analyzing a dataset related to a popular wellness and fitness tracking device, Fitbit. The analysis is conducted using Python, employing libraries such as pandas, seaborn, numpy, and matplotlib.
+This project focuses on analyzing a dataset related to a popular wellness and fitness tracking device, Fitbit( [FitBit Fitness Tracker Data ](https://www.kaggle.com/datasets/arashnic/fitbit)). The analysis is conducted using Python, employing libraries such as pandas, seaborn, numpy, and matplotlib.
 
 ## Data Analysis Process
 1. **Data Importation**: The dataset is loaded using pandas.
